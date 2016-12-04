@@ -4,6 +4,9 @@
 *.obj
 *.elf
 
+# Build directory
+bld
+
 # Precompiled Headers
 *.gch
 *.pch
